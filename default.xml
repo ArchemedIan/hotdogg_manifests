@@ -22,7 +22,7 @@
 	<project path="kernel/oneplus/sm8150" name="crdroidandroid/android_kernel_oneplus_sm8150" remote="crdroidandroid12.1" />
 	
 	<!-- Vendor folders -->
-	<project path="vendor/oneplus/hotdogg" name="proprietary_vendor_oneplus_hotdogg" remote="crdroidandroid12.1" />
-	<project path="vendor/oneplus/sm8150-common" name="proprietary_vendor_oneplus_sm8150-common" remote="crdroidandroid12.1" />
+	<project path="vendor/oneplus/hotdogg" name="crdroidandroid/proprietary_vendor_oneplus_hotdogg" remote="crdroidandroid12.1" />
+	<project path="vendor/oneplus/sm8150-common" name="crdroidandroid/proprietary_vendor_oneplus_sm8150-common" remote="crdroidandroid12.1" />
 	
 </manifest>
