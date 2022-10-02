@@ -18,7 +18,7 @@
 	<!--<project path="hardware/oneplus" name="crdroidandroid/android_hardware_oneplus" remote="crdroidandroid" />-->
 
 	<!--Kernel-->
-	<project path="kernel/oneplus/sm8150-common" name="crdroidandroid/android_kernel_oneplus_sm8150-common" remote="crdroidandroid12.1" />
+	<project path="kernel/oneplus/sm8150-common" name="crdroidandroid/android_kernel_oneplus_sm8150-common" remote="crdroidandroid11" />
 	<project path="kernel/oneplus/sm8150" name="crdroidandroid/android_kernel_oneplus_sm8150" remote="crdroidandroid12.1" />
 	
 	<!-- Vendor folders -->
