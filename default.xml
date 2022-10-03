@@ -16,7 +16,7 @@
 
 	
 	
-	<!--------------------------------------------------------------hotdogg crdroid 12.1--------------------------------------------------------->
+	<!--hotdogg crdroid 12.1-->
 	<!--Device Trees-->
 	<project path="crDroid/12.1/hotdogg/device/oneplus/hotdogg" name="crdroidandroid/android_device_oneplus_hotdogg" remote="crdroidandroid12.1" />
 	
@@ -32,7 +32,7 @@
 	<project path="crDroid/12.1/hotdogg/vendor/oneplus/hotdogg" name="crdroidandroid/proprietary_vendor_oneplus_hotdogg" remote="crdroidandroid12.1" />
 	<project path="crDroid/12.1/hotdogg/vendor/oneplus/sm8150-common" name="crdroidandroid/proprietary_vendor_oneplus_sm8150-common" remote="crdroidandroid12.1" />
 	
-	<!--------------------------------------------------------------hotdogg crdroid 11--------------------------------------------------------->
+	<!--hotdogg crdroid 11-->
 	<!--Device Trees-->
 	<project path="crDroid/11.0/hotdogg/device/oneplus/hotdogg" name="crdroidandroid/android_device_oneplus_hotdogg" remote="crdroidandroid11" />
 	
@@ -47,7 +47,7 @@
 	<project path="crDroid/11.0/hotdogg/vendor/oneplus/hotdogg" name="crdroidandroid/proprietary_vendor_oneplus_hotdogg" remote="crdroidandroid12.1" />
 	<project path="crDroid/11.0/hotdogg/vendor/oneplus/sm8150-common" name="crdroidandroid/proprietary_vendor_oneplus_sm8150-common" remote="crdroidandroid11" />
 	
-	<!--------------------------------------------------------------hotdog crdroid 12.1--------------------------------------------------------->
+	<!--hotdog crdroid 12.1-->
 	<!--Device Trees-->
 	<project path="crDroid/12.1/hotdog/device/oneplus/hotdogg" name="crdroidandroid/android_device_oneplus_hotdog" remote="crdroidandroid12.1" />
 	
@@ -63,7 +63,7 @@
 	<project path="crDroid/12.1/hotdog/vendor/oneplus/hotdogg" name="crdroidandroid/proprietary_vendor_oneplus_hotdog" remote="crdroidandroid12.1" />
 	<project path="crDroid/12.1/hotdog/vendor/oneplus/sm8150-common" name="crdroidandroid/proprietary_vendor_oneplus_sm8150-common" remote="crdroidandroid12.1" />
 	
-	<!--------------------------------------------------------------hotdog crdroid 11--------------------------------------------------------->
+	<!--hotdog crdroid 11-->
 	<!--Device Trees-->
 	<project path="crDroid/11.0/hotdog/device/oneplus/hotdogg" name="crdroidandroid/android_device_oneplus_hotdog" remote="crdroidandroid11" />
 	
