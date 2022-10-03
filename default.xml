@@ -9,20 +9,24 @@
 	<remote name="crdroidandroid11"
             fetch="https://github.com"
             revision="11.0" />
-
+	
+	<remote name="crdroidandroid12.1-hotdogg"
+            fetch="https://github.com"
+            revision="12.1-hotdogg" />
+	
 	<!--Device Trees-->
-	<project path="device/oneplus/hotdogg" name="crdroidandroid/android_device_oneplus_hotdogg" remote="crdroidandroid12.1" />
+	<project path="device/oneplus/hotdogg" name="crdroidandroid/android_device_oneplus_hotdogg" remote="crdroidandroid11" />
 	
 	<!--oneplus common-->
 	<project path="device/oneplus/common" name="crdroidandroid/android_device_oneplus_common" remote="crdroidandroid11" />
-	<!--<project path="hardware/oneplus" name="crdroidandroid/android_hardware_oneplus" remote="crdroidandroid" />-->
+	<!--<project path="hardware/oneplus" name="crdroidandroid/android_hardware_oneplus" remote="crdroidandroid11" />-->
 
 	<!--Kernel-->
-	<project path="kernel/oneplus/sm8150-common" name="crdroidandroid/android_device_oneplus_sm8150-common" remote="crdroidandroid12.1" />
-	<project path="kernel/oneplus/sm8150" name="crdroidandroid/android_kernel_oneplus_sm8150" remote="crdroidandroid12.1" />
+	<project path="kernel/oneplus/sm8150-common" name="crdroidandroid/android_device_oneplus_sm8150-common" remote="crdroidandroid11" />
+	<project path="kernel/oneplus/sm8150" name="crdroidandroid/android_kernel_oneplus_sm8150" remote="crdroidandroid11" />
 	
 	<!-- Vendor folders -->
-	<project path="vendor/oneplus/hotdogg" name="crdroidandroid/proprietary_vendor_oneplus_hotdogg" remote="crdroidandroid12.1" />
-	<project path="vendor/oneplus/sm8150-common" name="crdroidandroid/proprietary_vendor_oneplus_sm8150-common" remote="crdroidandroid12.1" />
+	<project path="vendor/oneplus/hotdogg" name="crdroidandroid/proprietary_vendor_oneplus_hotdogg" remote="crdroidandroid11" />
+	<project path="vendor/oneplus/sm8150-common" name="crdroidandroid/proprietary_vendor_oneplus_sm8150-common" remote="crdroidandroid11" />
 	
 </manifest>
