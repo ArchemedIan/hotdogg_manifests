@@ -14,7 +14,7 @@
 	
 	<!--hotdog crdroid 12.1-->
 	<!--Device Trees-->
-	<project path="crDroid/12.1/hotdog/device/oneplus/hotdog" name="crdroidandroid/android_device_oneplus_hotdog" remote="crdroidandroid12.1" />
+	<project path="AOSPA/device/oneplus/hotdog" name="crdroidandroid/android_device_oneplus_hotdog" remote="crdroidandroid12.1" />
 	
 	<!--oneplus common-->
 	<!--<project path="crDroid/12.1/hotdog/hardware/oneplus" name="crdroidandroid/android_hardware_oneplus" remote="crdroidandroid12.1" />-->
@@ -24,7 +24,7 @@
 
 	<!--hotdog AOSPA Saphire-->
 	<!--Device Trees-->
-	<project path="crDroid/12.1/hotdog/device/oneplus/hotdog" name="AOSPA/android_device_oneplus_oneplus7tpro" remote="aospa12.1" />
+	<project path="AOSPA/device/oneplus/hotdog" name="AOSPA/android_device_oneplus_oneplus7tpro" remote="aospa12.1" />
 	
 	<!--oneplus common-->
 	<!--<project path="crDroid/12.1/hotdog/hardware/oneplus" name="crdroidandroid/android_hardware_oneplus" remote="crdroidandroid12.1" />-->
