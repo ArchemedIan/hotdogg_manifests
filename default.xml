@@ -18,11 +18,11 @@
 	<!-- flamingo -->
 	<!-- <project path="Flamingo-op7proNR/" name="" remote="" /> -->
 	
-	<project path="Flamingo-op7proNR/device/oneplus/oneplus7proNR" name="FlamingoOS-Devices/android_device_oneplus_oneplus7proNR" remote="Flamingo-op7proNR-12.1" />
-	<project path="Flamingo-op7proNR/device/oneplus/common" name="FlamingoOS-Devices/android_device_oneplus_common" remote="Flamingo-op7proNR-12.1" />
-	<project path="Flamingo-op7proNR/device/oneplus/sm8150-common" name="FlamingoOS-Devices/android_device_oneplus_sm8150-common" remote="Flamingo-op7proNR-12.1" />
-	<project path="Flamingo-op7proNR/vendor/oneplus" name="FlamingoOS-Devices/proprietary_vendor_oneplus" remote="Flamingo-op7proNR-12.1" />
-	<!--<project path="Flamingo-op7proNR/vendor/oneplus/sm8150-common" name="FlamingoOS-Devices/vendor_oneplus_sm8150-common" remote="Flamingo-op7proNR-12.1" />-->
+	<project path="Flamingo-op7proNR/device/oneplus/oneplus7proNR" name="FlamingoOS-Devices/device_oneplus_oneplus7proNR" remote="Flamingo-op7proNR-12.1" />
+	<project path="Flamingo-op7proNR/device/oneplus/common" name="FlamingoOS-Devices/device_oneplus_common" remote="Flamingo-op7proNR-12.1" />
+	<project path="Flamingo-op7proNR/device/oneplus/sm8150-common" name="FlamingoOS-Devices/device_oneplus_sm8150-common" remote="Flamingo-op7proNR-12.1" />
+	<project path="Flamingo-op7proNR/vendor/oneplus/oneplus7proNR" name="FlamingoOS-Devices/vendor_oneplus/oneplus7proNR" remote="Flamingo-op7proNR-12.1" />
+	<project path="Flamingo-op7proNR/vendor/oneplus/sm8150-common" name="FlamingoOS-Devices/vendor_oneplus_sm8150-common" remote="Flamingo-op7proNR-12.1" />
 	
 	<!-- AOSPA-op7Tpro -->
 	<!-- <project path="AOSPA-op7tpro/" name="" remote="" /> -->
